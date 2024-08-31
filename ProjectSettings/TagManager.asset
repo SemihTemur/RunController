@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - "i\u011FneliKutu"
+  - "\xC7arpma"
+  - "\xC7\u0131karma"
+  - Toplama
+  - "B\xF6lme"
+  - "i\u011Fne"
+  - Testere
+  - Pervaneigneleri
+  - AltKarakterler
+  - Balyoz
+  - Dusman
+  - SavasAlani
+  - Direk
+  - dikenliduvar
+  - Karakter
+  - BosKarakter
+  - "i\u011FneliKutuu"
+  - MenuSes
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
